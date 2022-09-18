@@ -1,0 +1,13 @@
+using System;
+namespace lab
+{
+    class Program
+    {
+       static void Main(string[] args)
+       {
+        Console.WriteLine("Please insert the length and breadth of a rectangle!");
+        Console.ReadLine();
+        
+       } 
+    }
+}
